@@ -18,7 +18,6 @@ favicon: favicon.ico
 repository: Blog-Shtick/Blog-Shtick.github.io
 github_url: https://github.com/Blog-Shtick
 url: https://blog-shtick.github.io/
-enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
